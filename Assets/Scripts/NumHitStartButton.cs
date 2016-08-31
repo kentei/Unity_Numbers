@@ -2,11 +2,11 @@
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-public class GameStartButton : MonoBehaviour {
+public class NumHitStartButton : MonoBehaviour {
 
     /// ボタンをクリックした時の処理
     public void OnClick()
     {
-        SceneManager.LoadScene("GameSelect");
+        SceneManager.LoadScene("NumberHitGame");
     }
 }
