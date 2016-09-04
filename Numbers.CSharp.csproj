@@ -75,6 +75,9 @@
     <Compile Include="Assets\Scripts\GameStartButton.cs" />
     <Compile Include="Assets\Scripts\GuessButton.cs" />
     <Compile Include="Assets\Scripts\NumHitStartButton.cs" />
+    <Compile Include="Assets\Scripts\NumberHit\NumberHitInit.cs" />
+    <Compile Include="Assets\Scripts\NumberHit\NumberHitManager.cs" />
+    <Compile Include="Assets\Scripts\SetTimer.cs" />
     <Compile Include="Assets\Scripts\TitleMgr.cs" />
     <Compile Include="Assets\Scripts\ToggleTest.cs" />
   </ItemGroup>
